@@ -53,7 +53,7 @@
 
 This is Auction Services Project Build Using Node.js AWS Serverless Architecture.
 
-<p align="right">(<a href="#top">back to top</a>)</p>
+<!-- <p align="right">(<a href="#top">back to top</a>)</p> -->
 
 
 
@@ -66,7 +66,7 @@ This Project is Build using These Technologies.
 * [Serverless](https://www.serverless.com/)
 
 
-<p align="right">(<a href="#top">back to top</a>)</p>
+<!-- <p align="right">(<a href="#top">back to top</a>)</p> -->
 
 
 
@@ -100,7 +100,7 @@ _Below is an example of how you can instruct your audience on installing and set
    ```
 4. Deploy using Serverless `config.js`
    ```js
-   sls deploy -v;
+   sls deploy -v
    ```
 
 <p align="right">(<a href="#top">back to top</a>)</p>
